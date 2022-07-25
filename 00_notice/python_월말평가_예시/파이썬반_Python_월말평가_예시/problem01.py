@@ -1,5 +1,10 @@
 def max_score(scores):
+<<<<<<< HEAD
     pass
+=======
+    sol = 90
+    print(sol)
+>>>>>>> 69ef936b4dee049d88a750865f8220d7a75a58b5
     # 여기에 코드를 작성합니다.
 
 
